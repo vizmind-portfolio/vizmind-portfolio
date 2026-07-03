@@ -1,14 +1,17 @@
 # 🧠 VizMind – Portafolio de Análisis de Datos  
-### by **Jehimy Borda P.**  
-Analista de Datos | Inteligencia de Negocio | Finanzas | Sector Salud | Docente Universitaria
 
-Bienvenido/a a mi portafolio **VizMind**, un espacio donde comparto proyectos de **Power BI, Python, SQL, análisis financiero, automatización de procesos y visualización de datos**.  
-Integro experiencia en los sectores salud, educativo y financiero con herramientas de análisis para optimizar procesos, fortalecer la toma de decisiones y enseñar pensamiento analítico a estudiantes de pregrado.
+<img src="./logo-vizmind.png" alt="VizMind" width="220">
+
+### by **Jehimy Borda P.**  
+Analista de Datos & Finanzas | Business Intelligence | Docente Universitaria | IA Aplicada
+
+Bienvenido/a a mi portafolio **VizMind**, un espacio donde comparto proyectos de **Power BI, Python, SQL, análisis financiero, automatización de procesos, visualización de datos e inteligencia artificial aplicada**.  
+Integro experiencia en los sectores salud, educativo y financiero con herramientas de análisis para optimizar procesos, fortalecer la toma de decisiones y enseñar pensamiento analítico a estudiantes y servidores públicos.
 
 ---
 
 ## 🧩 Enfoque profesional
-Mi trabajo combina tres pilares:
+Mi trabajo combina cuatro pilares:
 
 ### 🔹 **1. Analítica de datos**
 - Limpieza, transformación y modelamiento de datos  
@@ -22,16 +25,22 @@ Mi trabajo combina tres pilares:
 - Herramientas para toma de decisiones basadas en datos  
 - Automatización de reportes y procesos repetitivos  
 
-### 🔹 **3. Docencia universitaria**
+### 🔹 **3. Docencia universitaria e institucional**
 - Diseño de módulos en finanzas y gestión  
+- Docente de cursos de Power BI e IA Aplicada para entidades públicas (DANE, Superintendencia de Servicios Públicos Domiciliarios), a través de la Universidad Nacional de Colombia  
 - Enseñanza práctica orientada a casos reales  
 - Uso de datos abiertos en clases  
-- Formación de estudiantes en pensamiento crítico y analítico  
+- Formación de estudiantes y servidores públicos en pensamiento crítico y analítico  
+
+### 🔹 **4. Inteligencia Artificial Aplicada**
+- Formación en IA aplicada para el sector público  
+- Automatización de procesos con herramientas de IA  
+- Integración de modelos analíticos en la toma de decisiones  
 
 ---
 
 ## 🛠️ Herramientas y tecnologías
-**Power BI · SQL · Python · R · Excel avanzado · Modelos financieros · ETL · Sistemas contables (Alegra, Sigo, World Office)**
+**Power BI · SQL · Python · R · Excel avanzado · Modelos financieros · ETL · Inteligencia Artificial · Sistemas contables (Alegra, Sigo, World Office)**
 
 ---
 
@@ -43,6 +52,7 @@ Mi trabajo combina tres pilares:
 - 📈 **Análisis de cartera y facturación**  
 - 🧹 **ETL – Limpieza y transformación de datos en Python**  
 - 📘 **Clases y guías de enseñanza basadas en datos**  
+- 🏛️ **Material de formación: Power BI e IA Aplicada para servidores públicos (DANE / Superservicios)**  
 
 ---
 
@@ -50,11 +60,13 @@ Mi trabajo combina tres pilares:
 - **Maestría en Inteligencia de Negocio – UNIR (2024)**  
   Modelamiento de datos, analítica, BI y visualización.  
 
-
 ---
 
 ## 💼 Experiencia relevante
 *(Versión técnica resumida para portafolio; la versión completa está en tu HV y LinkedIn)*  
+
+### **Docente – Cursos Institucionales (2026 – Actual)**  
+A través de la Universidad Nacional de Colombia: Analítica y Visualización de Datos con Power BI e Inteligencia Artificial Aplicada para Servidores Públicos, dictados para el DANE y la Superintendencia de Servicios Públicos Domiciliarios.
 
 ### **Docente universitaria – Universidad El Bosque**  
 Enseño finanzas y gestión con enfoque analítico y práctico, integrando datasets reales y ejercicios aplicados.
@@ -69,10 +81,11 @@ Creación de bases de datos, optimización de procesos, análisis poblacional y 
 
 ## 📞 Contacto profesional  
 📱 (+57) 320-425-3263  
-🔗 LinkedIn: https://cutt.ly/aWPO5fY8  
+📧 vizmind.ia@gmail.com / vizmind.ia@outlook.com  
+🔗 LinkedIn: https://www.linkedin.com/in/jehimy-patriciajp  
+🔗 GitHub: https://github.com/vizmind-portfolio/vizmind-portfolio  
 
 ---
 
 ## © VizMind – Portafolio con marca personal  
 *(Contenido público, pero protegido mediante diseño de marca.)*
-x
