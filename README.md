@@ -80,7 +80,6 @@ Creación de bases de datos, optimización de procesos, análisis poblacional y 
 ---
 
 ## 📞 Contacto profesional  
-📱 (+57) 320-425-3263  
 📧 vizmind.ia@gmail.com / vizmind.ia@outlook.com  
 🔗 LinkedIn: https://www.linkedin.com/in/jehimy-patriciajp  
 🔗 GitHub: https://github.com/vizmind-portfolio/vizmind-portfolio  
